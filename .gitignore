@@ -1,1 +1,4 @@
 /venv
+/data/daily.h5
+/data/min.h5
+/__pychache__
