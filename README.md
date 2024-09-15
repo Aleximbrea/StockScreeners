@@ -13,3 +13,4 @@ Filter stocks that are part of the s&p500 index
 - Importing s&p500 stocks from **wikipedia**
 
 ## Notes
+- First startup of the day might take a few minutes because it has to download data and make api calls
